@@ -1,4 +1,4 @@
-# -student-portal-demo
+# student-portal-demo
 Describing a basic idea for a student portal.
 1. Login/Authentication System:
   Secure student login (email & password or student ID)
